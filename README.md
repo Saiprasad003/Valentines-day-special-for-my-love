@@ -5,9 +5,7 @@ This is a fun project for valentines day to bring smile on face of your special 
 ## Demo
 Github Repository: https://github.com/Saiprasad003/Valentines-day-special-for-my-love
 
-## Description
-This project is inspired from
-https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
+
 
 ## How to start
 
